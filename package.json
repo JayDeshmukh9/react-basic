@@ -17,6 +17,6 @@
   "scripts": {
     "start": "webpack-dev-server --hot"
   },
-  "author": "",
+  "author": "Jay Deshmukh",
   "license": "ISC"
 }
